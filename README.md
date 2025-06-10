@@ -1,4 +1,4 @@
-# M.Sree Raadhai
+# M Sree Raadhai
 Welcome to my personal portfolio! I’m an Automation and Robotics Engineer graduated from Amrita Vishwa Vidyapeetham, with a strong foundation in industrial automation, embedded systems, and robotics simulation.
 
 ## About Me
